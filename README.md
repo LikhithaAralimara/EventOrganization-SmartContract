@@ -1,5 +1,6 @@
 # EventOrganization-SmartContract
-EventContract Solidity Smart Contract
+Event Organization Solidity Smart Contract
+
 This repository contains a Solidity smart contract named EventContract for managing events, ticket sales, and reviews. This README provides an overview of the contract's functionality and usage.
 
 Table of Contents
